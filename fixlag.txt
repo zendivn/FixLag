@@ -10,8 +10,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "DANH VINH",
-         Animation = "2001"
+         Title = "ZenDi",
+         Animation = "Fix Lag"
          },
         Key = {
         KeySystem = false,
